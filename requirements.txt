@@ -1,0 +1,4 @@
+streamlit==1.10.0  # or the version you are using
+pandas==1.4.2      # or the version you are using
+openpyxl==3.0.10   # or the version you are using
+# ... any other necessary packages
